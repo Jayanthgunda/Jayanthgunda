@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Jayanthgunda
 - 👀 I’m interested in Coding,learning things 
 - 🌱 I’m currently learning web development
-- 💞️ I’m looking to collaborate on those who are experienced in coding and guide me
+- 💞️ I’m looking to collaborate on those who are experienced in coding 
 - 📫 How to reach me jayanthgunda123@gmail.com
 
 <!---
